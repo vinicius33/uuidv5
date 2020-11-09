@@ -1,6 +1,6 @@
 {
   "name": "uuidv5",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generates named version 5 UUIDs",
   "main": "uuid.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:download13/uuidv5.git"
+    "url": "git@github.com:vinicius33/uuidv5.git"
   },
   "keywords": [
     "uuid",
